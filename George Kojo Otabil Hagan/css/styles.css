@@ -1,0 +1,35 @@
+body{
+	background-color: rgba(43, 179, 0,0.7);
+}
+
+h1{
+	color:rgb(3, 78, 135);
+	font-weight: 900;
+	font-family: monospace,Helvetica,sans-serif;
+	font-size: 300%;
+	text-transform: uppercase;
+
+}
+
+.intro{
+	font-family:"monospace",Lucida Console;
+	color: rgb(255, 226, 87);
+}
+
+
+a{
+	color: rgb(16, 94, 217);
+	font-family:"monospace",Lucida Console;
+
+}
+
+h3{
+	color: rgb(169, 0, 96);
+	font-family: "monospace",Consolas;
+	
+}
+
+ol{
+	font-family: "monospace",Courier New;
+		text-decoration: underline;
+}
